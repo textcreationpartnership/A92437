@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the case of the late farmers of the customes, and their humble petition to the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92437</idno>
+            <idno type="STC">Wing R999</idno>
+            <idno type="STC">Thomason 669.f.17[55]</idno>
+            <idno type="STC">ESTC R211705</idno>
+            <idno type="EEBO-CITATION">99870411</idno>
+            <idno type="PROQUEST">99870411</idno>
+            <idno type="VID">163303</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163303)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[55])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the case of the late farmers of the customes, and their humble petition to the Parliament.</title>
+                  <author>Jacob, John, Sir, 1597 or 8-1666.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Jacob [and 3 others].</note>
+                  <note>Annotation on Thomason copy: "Septemb. ye 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163303:1" rendition="simple:additions"/>
+            <head>A Remonſtrance of the Caſe of the late Farmers of the Cuſtomes, and their humble Petition to the Parliament;</head>
+            <p>Humbly ſhewing,</p>
+            <p>THat the ſaid Farmers about the yeare 1640, upon a contract with the late King for the Farmes of the Cuſtomes, did advance and ingage for very great ſummes of money for
+his ſervice; Which contract could not be perfected nor enjoyed, by reaſon of the Parliament intervening and diſpoſing the Revenue thereof to the then preſent occaſions
+of the Publique: And ſo their intended ſecurity was not only diverted, but the ſaid Farmers were made more miſerable, by being queſtioned in the Houſe of Commons,
+and voted Delinquents for intermedling in the Farming of the ſaid Cuſtomes, as being illegall. In this great ſtraight they were adviſed, and did without diſpute ſubmit them<g ref="char:EOLhyphen"/>ſelves
+to the mercy of the Houſe by Petition, and craved leave to make their compoſition, and expiate their faults by a preſent ſumme to be paid for the then urgent occaſions of
+the Common-wealth; Whereupon a Committee was appointed to treate the ſame, who agreed that upon paiment of 165000 li. from the ſaid Farmers, they ſhould have
+an Act of Oblivion paſſed for their Delinquency, and ſo was ordered by the Houſe accordingly; The Farmers hereupon ſubmitted themſelves thereunto. But withall againe pe<g ref="char:EOLhyphen"/>titioned
+the Houſe, wherein they laid downe the particulars of their great Debts and Engagements for the late King, for proviſions for the Navy, and Ammunition of War for
+the Office of the Ordnance. All which was afterwards imployed in their ſervice; And that hereby they were ſo obſtructed in the procuring of monies to effect this preſent com<g ref="char:EOLhyphen"/>poſition,
+that they could by no meanes raiſe any ſumme untill ſuch time the Houſe would declare, that when they fell upon the Kings Revenue, they would take care of the Farmers
+ſaid debt; And thereupon it was ordered that they would take the juſtneſſe of the ſaid Petition into conſideration in due time. By which engagement of the Houſe, the Farmers
+credits were renewed, and with much ſpeed then procured the aforeſaid ſumme of 165000 li. and paid the ſame for disbanding the Engliſh and Scotch Forces then in this Na<g ref="char:EOLhyphen"/>tion,
+which with many thankfull expreſſions from ſeverall Members, was accounted an extraordinary ſervice, in their ſo ſudden and timely paiment thereof.</p>
+            <p>And as the Farmers did move with the Parliament as aforeſaid, ſo they did likewiſe petition the late King for his directions how they might be otherwiſe ſecured for his ſaid
+Debt (their former ſecurity upon the Cuſtomes being otherwiſe diverted) which Petition was by the late King referred unto his then Commiſſioners of the<note n="*" place="margin">H: Mancheſter. W: Say <hi>&amp;</hi> State. Falkland, E. Newburgh. John Culpep<g ref="char:EOLhyphen"/>per, <hi>&amp;c.</hi>
+               </note> Treaſury, to conſi<g ref="char:EOLhyphen"/>der
+ſome way of ſatisfaction of the Debt.</p>
+            <p>Whereupon the ſaid Commiſſioners of the Treaſury did by their Certificate unto the late King, dated the fifteenth of <hi>May, 1642.</hi> propoſe and adviſe him the beſt and moſt
+advantagiovs way for the ſatisfaction of the Farmers ſaid debt, to be out of the ſale of ſuch his Forreſt Lands, Chaces and Parkes, as were annuall charges unto him, and ſerved not
+for his diſport, whereby he ſhould not only pay his debt, but much advance his Revenue.</p>
+            <p>And accordingly the ſaid King by his Letter dated the firſt of <hi>Iune, 1642.</hi> from <hi>Yorke,</hi> directed unto his ſaid Commiſſioners of the Treaſury, in anſwer to their Certificate of
+the fifteenth of <hi>May, 1642.</hi> aforeſaid, and taking thereby conſideration of a Petition then exhibited unto him at <hi>Yorke,</hi> with a Scedule of the Farmers debt, together with inte<g ref="char:EOLhyphen"/>reſt
+incurred for the ſame, which he ſends to the Commiſſioners, ſignifying that for the reaſons in the Certificate mentioned, he was very much inclined to diſcharge the Farmers
+ſaid debt, and reſolved by all poſſible wayes and meanes ſpeedily to ſatisfie the ſame; And therefore did thereby require with all convenient ſpeed, a Liſt of all his Parkes, For<g ref="char:EOLhyphen"/>reſts
+and Chaces to be preſented unto him, to the end he might ſpeedily give further Order how to diſpoſe of them. And his Surveyor generall was for the more ſpeedy effecting
+his pleaſure, required thereby to give particulars and conſtats of the premiſes unto the ſaid Commiſſioners: Which was done accordingly by the ſaid Surveyor generall.</p>
+            <p>And now the Farmers buſineſſe being brought to this maturity, upon the very point of ſatisfaction to be ſetled for their debt, in the way aforeſaid; the difference with the ſaid
+King and Parliament then ariſing, and ſo continuing, and all addreſſes forbidden, did ſtay the Farmers from any further applications unto the ſaid King.</p>
+            <p>Yet notwithſtanding the Farmers groaning under ſo great aburden of debt, did endeavour all meanes before them offered, and being made more miſerable by a greater compoſi<g ref="char:EOLhyphen"/>tion
+paid by them to the Parliament as aforeſaid, by reaſon whereof they were further ingaged to ſundry perſons in greater ſummes of monies; Hereupon the ſaid Farmers in <hi>May,
+1645.</hi> did renew their requeſt unto the Houſe of Commons by Petition, for Order and directions, that their debt and engagements might be diſcharged and ſatisfied.</p>
+            <p>The Houſe the fourteenth of <hi>May, 1645.</hi> thereupon Ordered that the ſaid Petition ſhould be referred to the conſideration of the Committee of the Navy, who were to prepare
+an Ordinance for reliefe of the Petitioners, according to the former engagements of the Houſe, and they had power to receive ſuch Propoſitions as ſhould be tendred unto them
+by the Petitioners; And priviledge of Parliament granted for their perſons to attend the ſame.</p>
+            <p>In proſecution hereof, the Farmers did attend the Committee of the Navy ſeverall dayes, and did by their Order preſent unto them an Accompt of the Kings debt then due,
+(being 276146 li: 15 s. 11 d. and further did give an Accompt of their proceedings, and former engagements of the late King, to be ſatisfied their debt out of his Forreſts,
+Parkes and Chaces, as is aforementioned; And delivered unto the ſaid Committee a Coppy of the Kings Letter, of the firſt of <hi>Iune, 1642.</hi> Together with a particular Liſt of
+the names of the Forreſts, Parkes and Chaces which was formerly delivered by the Surveyor generall unto his Commiſſioners of the Treaſury.</p>
+            <p>The Committee of the Navy after ſerious debate of this buſineſſe, did in fine come to a reſolution, and Ordered this following Report to be made; <hi>viz.</hi>
+            </p>
+         </div>
+         <div type="report">
+            <head>Committee, Navy <hi>&amp;</hi> Cuſtomes.</head>
+            <p>THe Committee have in proſecution of an Order of the Houſe of Commons dated the fourteenth of <hi>May, 1645.</hi> taken into conſideration the Petition of the late Farmers
+of the Cuſtomes, with the Propoſitions by them preſented; And in regard of a former ſpeciall engagement of the Houſe of Commons unto the Petitioners, and the Kings
+more particular Aſſignation for their debt to be paid by his Parkes, Forreſts and Chaces; Are of opinion that the Houſe be moved to give Order unto the Committee of the
+Revenue to cauſe a Survey to be made of the ſeverall Parkes, Forreſts and Chaces mentioned in the annexed Schedule; And after receipt of the particulars and conſtats of the
+premiſes, to enter into conſideration how the ſame may be advanced in the Revenue, to the advantage of the Commonwealth and reliefe of the Petitioners.</p>
+            <p>Notwithſtanding all theſe preparations and hopes of reliefe, and ſolicitations daily made; yet by reaſon of the continuance of the troubles in this Nation, the Houſe being
+taken up with generall and publique buſineſſe, would not admit of an opportunity to heare this particular Report: And now at laſt, thoſe Members who had knowledge of the
+Farmers buſineſſe are diſſolved, and ſo could never ſince find meanes to be heard, nor rightly underſtood, in this their ſad and miſerable conditions; But their perſons caſt into
+priſon, and Statutes of Bankrup taken out againſt them, to the utter ruine of all them and their Families, and death already of ſome, and not for their private but the generall
+debts as aforeſaid; notwithſtanding the engagements of Parliament for their preſervation, which they only depended upon as a ſacred protection, and thereupon exhauſted all
+their Eſtates to ſupport their credits, ſo long and ſo far as they were able; And now have nothing left but hopes to find the juſtice of their caſe, by this preſent Power to be
+commiſerated, the engagements of Parliament accompliſhed, and the poore oppreſſed relieved: which is the humble Petition of the ſaid Farmers, with their Creditors; And
+humbly pray ſpeedy reliefe, according to the truth, equity and right of their Caſe included in the premiſes.</p>
+            <p>And now upon the whole matter of Fact herein, It is humbly deſired that theſe following Heads may be ſeriouſly and Chriſtian-like conſidered.</p>
+            <p>Firſt, the Farmers fault was the Farming of the Cuſtomes. Wherein conſider they were thereunto enforced by commands of a King; And then backed by an Act of State of
+his Miniſters; And confirmed by his Councell at Law, and Judges of the Land; And paſſed under the Great Seale of England for their Indempnity, which then was the viſi<g ref="char:EOLhyphen"/>ble
+Government. Make this the Caſe of every honeſt and well-minded man.</p>
+            <p>Secondly, Their puniſhment. Wherein conſider it was the greateſt Compoſition that ever was paid by a Subject (the payment 165000 li.) And here further conſider their vo<g ref="char:EOLhyphen"/>luntary
+ſubmiſſion therein; their great and gratefull acceptance from the Houſe in the ſudden and timely paiment thereof; And the benefit the whole Nation received in the
+ſeaſonable disbanding thoſe Armies by the meanes thereof.</p>
+            <p>Thirdly, Their engagements thereupon from the Parliament. Wherein conſider an Order made for an Act of Oblivion to paſſe for their Indempnity, and another Order, that
+ſatisfaction ſhould be made out of the late Kings Eſtate for the debt contracted by him. And the Order of the Houſe of the fourteenth of <hi>May, 1645.</hi> with the Report of the Com<g ref="char:EOLhyphen"/>mittee
+of the Navy; wherein is acknowledged the former engagements of the Houſe of Commons, and the Kings more particular Aſſignation for their debt to be paid by his
+Parkes, Forreſts and Chaces, all thought juſt and fit to be paſſed for the reliefe of the Farmers by the Parliament.</p>
+            <p>And laſtly, conſider that all the proviſions of the Navy, and Ammunition, Tents, Artillery, and materials of War, for which the Farmers did pay, and are yet engaged, was im<g ref="char:EOLhyphen"/>ployed
+by the Parliament to the defence and ſafety of this Nation and alſo Ireland. And the monies procured for the paiment of their Compoſition of 165000 li. yet owing un<g ref="char:EOLhyphen"/>to
+ſundry perſons, was taken up only for that occaſion, and their Creditors encouraged thereunto by the Parliaments Engagements unto the Farmers, as aforeſaid: among whom
+are many poore Widdowes, Orphants, and other neceſſitated perſons involved.</p>
+            <p>All which is moſt humbly ſubmitted to the further and more ſerious conſideration and commiſeration of this preſent Supreme Authority the Parliament,
+in and by whom is only left the expectation of their deliverance, as their only refuge in this their great extremity.</p>
+            <closer>
+               <signed>And ſo ſhall ever pray, <hi>&amp;c.</hi>
+                  <list>
+                     <item>John Jacob.</item>
+                     <item>Job Harby.</item>
+                     <item>Nicholas Criſp.</item>
+                     <item>John Harriſon.</item>
+                  </list>
+               </signed>
+               <date>
+                  <hi>Iuly.</hi> 1653.</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
